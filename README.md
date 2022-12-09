@@ -1,2 +1,4 @@
 # PingPong
-Just first steps with OOP
+LEARNING BY DOING
+
+First steps with Python's OOP
